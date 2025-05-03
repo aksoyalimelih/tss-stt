@@ -1,0 +1,12 @@
+git+https://github.com/openai/whisper.git@main
+gTTS==2.3.1
+pyttsx3==2.90
+pydub==0.25.1
+ffmpeg-python==0.2.0
+gradio==3.26.0
+soundfile==0.10.3.post1
+phonetics==1.0.5
+pronouncing==0.2.0
+librosa==0.10.1
+vosk==0.3.45
+TTS==0.22.0
